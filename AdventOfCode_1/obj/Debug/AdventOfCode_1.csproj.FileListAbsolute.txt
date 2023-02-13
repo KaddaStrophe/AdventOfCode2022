@@ -1,0 +1,7 @@
+C:\Users\AG Games Engineering\source\repos\AdventOfCode_1\AdventOfCode_1\bin\Debug\AdventOfCode_1.exe.config
+C:\Users\AG Games Engineering\source\repos\AdventOfCode_1\AdventOfCode_1\bin\Debug\AdventOfCode_1.exe
+C:\Users\AG Games Engineering\source\repos\AdventOfCode_1\AdventOfCode_1\bin\Debug\AdventOfCode_1.pdb
+C:\Users\AG Games Engineering\source\repos\AdventOfCode_1\AdventOfCode_1\obj\Debug\AdventOfCode_1.csproj.CoreCompileInputs.cache
+C:\Users\AG Games Engineering\source\repos\AdventOfCode_1\AdventOfCode_1\obj\Debug\AdventOfCode_1.exe
+C:\Users\AG Games Engineering\source\repos\AdventOfCode_1\AdventOfCode_1\obj\Debug\AdventOfCode_1.pdb
+C:\Users\AG Games Engineering\source\repos\AdventOfCode_1\AdventOfCode_1\obj\Debug\AdventOfCode_1.csproj.AssemblyReference.cache
